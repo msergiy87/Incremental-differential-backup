@@ -30,4 +30,5 @@
 Crontab
 
 13 02 * * 1 /home/sergii/scripts/backup/backup.sh f oel:/root :/home/sergij
+
 13 03 * * * /home/sergii/scripts/backup/backup.sh d oel:/root :/home/sergij
